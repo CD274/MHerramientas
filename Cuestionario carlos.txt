@@ -18,3 +18,5 @@ CARLOS:
 El archivo es .gitignore.
 
 ¿Qué comando muestra el historial de commits en un repositorio?
+CARLOS:
+El comando es git log.
