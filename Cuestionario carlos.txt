@@ -10,3 +10,5 @@ git commit – Guarda los cambios en el historial del repositorio.
 git push – Envía los commits al repositorio remoto.
 
 ¿Cómo se llama el archivo donde Git almacena información sobre los cambios pendientes?
+CARLOS:
+Se llama staging area o índice, pero no es un archivo específico. Sin embargo, la información interna se guarda en un archivo oculto dentro de la carpeta .git/index.
