@@ -1,1 +1,3 @@
 ¿Qué comando muestra el estado actual de los cambios en el repositorio?
+CARLOS:
+El comando es git status.
