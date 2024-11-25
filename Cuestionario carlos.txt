@@ -14,3 +14,5 @@ CARLOS:
 Se llama staging area o índice, pero no es un archivo específico. Sin embargo, la información interna se guarda en un archivo oculto dentro de la carpeta .git/index.
 
 ¿Qué archivo se utiliza para ignorar ciertos archivos o carpetas en un repositorio de Git?
+CARLOS:
+El archivo es .gitignore.
