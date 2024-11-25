@@ -8,3 +8,5 @@ CARLOS:
 git add – Añade los cambios al área de preparación (staging).
 git commit – Guarda los cambios en el historial del repositorio.
 git push – Envía los commits al repositorio remoto.
+
+¿Cómo se llama el archivo donde Git almacena información sobre los cambios pendientes?
