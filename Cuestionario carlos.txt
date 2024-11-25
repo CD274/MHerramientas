@@ -3,3 +3,8 @@ CARLOS:
 El comando es git status.
 
 ¿Cuáles son los 3 comandos para guardar los cambios en el historial de Git?
+CARLOS:
+
+git add – Añade los cambios al área de preparación (staging).
+git commit – Guarda los cambios en el historial del repositorio.
+git push – Envía los commits al repositorio remoto.
