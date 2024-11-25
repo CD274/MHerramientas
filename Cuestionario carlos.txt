@@ -16,3 +16,5 @@ Se llama staging area o índice, pero no es un archivo específico. Sin embargo,
 ¿Qué archivo se utiliza para ignorar ciertos archivos o carpetas en un repositorio de Git?
 CARLOS:
 El archivo es .gitignore.
+
+¿Qué comando muestra el historial de commits en un repositorio?
